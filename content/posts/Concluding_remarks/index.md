@@ -14,7 +14,10 @@ title: La narrativa de la transición energética
 ### Definición:
 > <mark>**La transición energética global**, entendida como el proceso en el que las sociedades a escala mundial llevan a cabo estrategias para reducir el uso de combustibles de alto impacto ambiental (Naciones Unidas, 2023.)
 
+ #### *Is Natural gas  just another fossil fuel that contributes to the climate crisis?*
+
 ### Contraste de emisiones Carbón vs. Gas Natural. 
+
 
 
 ![](./images/s8.jpg)
@@ -44,7 +47,7 @@ mexicano y en los estados fronterizos como Sonora, Chihuahua y Baja California,
  
 **Sources:**  *The California Energy Commission; Center for Liquefied Natural Gas; Clearwater Port; U.S. Energy Information Administration (EIA), Official Energy Statistics From the U.S. Government; The Federal Energy Regulatory Commission (FERC); OceanWay Secure Energy*
 
-* #### Ver el caso emblemático de  la cancelación del proyecto Costas del pacífico (en Orregon) [Jordan Cove](https://socan.eco/legislative-hub/historical-advocacy/pipeline-advocacy/) 
+* #### Ver el caso emblemático de  la cancelación del proyecto Costas del pacífico (en **Coos Bay Oregon**) [Jordan Cove](https://socan.eco/legislative-hub/historical-advocacy/pipeline-advocacy/) 
 
 
 ##### En Mexico: 
