@@ -9,18 +9,22 @@ title: "La ruta del gas natural en el noroeste de México. Implicaciones locales
 
   # <span style="color:  #fb4344;"> Motivación y objetivos.</span>
 
-
-### ¿Por qué el gas natural es importante en el contexto de la transición energética?
-
-### ¿De qué forma estados como Sonora en particular se insertan en esta configuración energética global?
- 
-
-¿Cuáles son las expresiones locales de estos procesos globales? 
-
-Este cuestionamiento de partida **busca comprender** el contrsate entre las emisiones 
-de **CO<sub>2</sub>** derivadas del uso del carbón para <span style="color:  red;">la generación de energía electrica</span>  y las correspondientes derivadas del<span style="color:  red;"> gas natural</span> .
-
 ### <span style="color:  #F18F01;"> El objetivo</span> es ayudar a entender <span style="color:  #F18F01;">¿Cómo la agenda de transición energética</span>  se expresa en nuestro territorio? 
+
+
+
+### <span style="color:  #1C69A8;">Cuestionamientos de partida: </span>
+
+##### ¿Por qué el gas natural es importante en el contexto de la transición energética?
+
+##### ¿De qué forma estados como Sonora en particular se insertan en esta configuración energética global?
+ 
+##### ¿Cuáles son las expresiones locales de estos procesos globales? 
+
+<span style="color:  #1C69A8;">Estos cuestionamientos **buscan comprender** hasta qué punto el gas natural puede considerarse un combustible fósil de menor impacto para el proceso de cambio climático.</span>
+
+### El análisis presenta el contraste entre las emisiones  de **CO<sub>2</sub>** derivadas del uso del carbón para <span style="color:  red;">la generación de energía electrica</span>  y las correspondientes derivadas del<span style="color:  red;"> gas natural</span> .
+
 
 
 {{< css.inline >}}
