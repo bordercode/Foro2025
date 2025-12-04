@@ -3,7 +3,7 @@ date: "2025-11-14"
 image: barco.jpg
 math: true
 tags:
-title: Resultados
+title: Proyectos LNG
 ---
 
 ## Estados Unidos. Líder productor mundial de LNG.
@@ -83,6 +83,29 @@ Esta infraestructura de transporte de gas natural tiene una longitud proyectada 
 
 Acorde con la documentación de **la empresa Mexico Pacific**, el ducto tiene una capacidad de transporte de 2.8 billones de pies cúbicos diarios, (bcfd) (<span style="color:  coral;"> **este volumen representa cerca del 40% del consumo diario de gas natural en México**</span>, que ronda los 8.4 bcfd) (Secretaría de Energía, 2024).
 
+
+
+## Controversia por emisiones de gases de efecto invernadero. 
+
+ ONU advierte de sobre los riesgos de estos proyectos: 
+ 
+ 
+" Expresamos nuestra profunda preocupación por las emisiones previstas de gases de efecto invernadero, la contaminación tóxica, la alteración de los ecosistemas entre otros daños...
+(Comunicado ONU 2 septiembre 2025)"
+
+
+“a costa de la salud, los ecosistemas, las comunidades y los compromisos climáticos del país”
+
+
+
+###### "La ONU advierte que las Manifestaciones de Impacto Ambiental de estos proyectos carecen de rigor y omiten análisis esenciales sobre efectos acumulativos, variación climática, riesgos tóxicos..."
+
+La ausencia de estos elementos implica un incumplimiento directo de las obligaciones nacionales e internacionales de México, que exigen evaluaciones preventivas, completas y basadas en evidencia científica, sobre todo en una región considerada ecológicamente frágil.
+
+
+Las emisiones proyectadas de dióxido de carbono (CO₂) y las fugas de metano asociadas a la operación de buques metaneros colocarían al país fuera de ruta respecto a sus metas de reducción de gases de efecto invernadero, además de comprometer la credibilidad climática del Estado.
+
+La ONU subraya que, en lugar de reducir su dependencia de combustibles fósiles, México estaría apostando por infraestructura que bloquearía su transición energética durante décadas.
 
 
 
