@@ -47,7 +47,7 @@ mexicano y en los estados fronterizos como Sonora, Chihuahua y Baja California,
  
 **Sources:**  *The California Energy Commission; Center for Liquefied Natural Gas; Clearwater Port; U.S. Energy Information Administration (EIA), Official Energy Statistics From the U.S. Government; The Federal Energy Regulatory Commission (FERC); OceanWay Secure Energy*
 
-* #### Ver el caso emblemático de  la cancelación del proyecto Costas del pacífico (en **Coos Bay Oregon**) [Jordan Cove](https://socan.eco/legislative-hub/historical-advocacy/pipeline-advocacy/) 
+* #### Ver el caso emblemático de  la cancelación del proyecto en costas del pacífico ( **Coos Bay Oregon**) [Jordan Cove](https://socan.eco/legislative-hub/historical-advocacy/pipeline-advocacy/) 
 
 
 ##### En Mexico: 
