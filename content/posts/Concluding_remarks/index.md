@@ -107,10 +107,10 @@ Con base en las series estudiadas, podemos concluir que la trayectoria energéti
 
 ###  Gracias por su atención.  
 
-![](./images/qr-code.png)
+![](./images/qr4.jpg)
 
 
-## <span style="color:  #e77162;">II Foro Adaptaciones locales al cambio climático</span>
+## <span style="color:  #fb8b2b;">II Foro Adaptaciones locales al cambio climático</span>
 #####  El Colegio de la Frontera Norte
 Diciembre 5, 2025.
 
