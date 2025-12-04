@@ -1,5 +1,5 @@
 baseURL: https://Foro2025.netlify.app/
-pluralizeListTitles: no
+pluralizeListTitles: false
 summaryLength: 25
 theme: BlogRa
 languageCode: en-us
