@@ -35,7 +35,7 @@ contratos en la Guerra de Irak (reparación de infraestructura petrolera).
 
 
 
-add fracking image
+![](./images/fracking.jpg)
 
 
 <!-- Return to Home Page -->
