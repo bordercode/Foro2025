@@ -33,9 +33,8 @@ proyectos para exportación de gas natural en las costas del Pacífico
 mexicano y en los estados fronterizos como Sonora, Chihuahua y Baja California, 
 <span style="color: #46ECD5;">**contrasta con la tendencia negativa al desarrollo de estos proyectos en la costa oeste del suelo estadounidense.**</span>
 
-* ##### *See the LULUS framework*.  <span style="color: #FCCEE8;">Locally Unwanted Land Uses</span>
-
-[California Senate](https://sor.senate.ca.gov/sites/sor.senate.ca.gov/files/What%20is%20LNG.pdf)
+* ##### *LULU´s framework*.  <span style="color: #FCCEE8;">Locally Unwanted Land Uses</span>
+[ver reporte:  California Senate](https://sor.senate.ca.gov/sites/sor.senate.ca.gov/files/What%20is%20LNG.pdf)
 
 * #### *In 2002 an LNG facility was proposed for Mare Island, a former naval shipyard in San Francisco Bay. Considerable citizen opposition prompted the <span style="color: #F54927;">withdrawal</span>  of this project.*
 
@@ -43,18 +42,26 @@ mexicano y en los estados fronterizos como Sonora, Chihuahua y Baja California,
 
 * ####  *In 2004 a Long Beach onshore LNG facility was proposed, however, the California <span style="color: #FE9A37;">Supreme Court upheld the City of Long Beach’s decision not to review this project.</span>* 
  
+**Sources:**  *The California Energy Commission; Center for Liquefied Natural Gas; Clearwater Port; U.S. Energy Information Administration (EIA), Official Energy Statistics From the U.S. Government; The Federal Energy Regulatory Commission (FERC); OceanWay Secure Energy*
+
+* #### Ver el caso emblemático de  la cancelación del proyecto Costas del pacífico (en Orregon) [Jordan Cove](https://socan.eco/legislative-hub/historical-advocacy/pipeline-advocacy/) 
+
+
+##### En Mexico: 
+
 * Ciudadanos en comunidades locales con relativa menor capacidad de gestión y organización social para prevenir proyectos en el marco de los  **LULU´s propuestos desde EE.UU**
 
-* Mexico con una marco regulatorio ambiental robusto en papel pero con deficiente *enforcement* en la practica.
+* Marco regulatorio ambiental robusto en papel pero con <span style="color: #FCCEE8;">deficiente *enforcement* en la práctica.</span> (Altos nivels de corrupción  institucional). Ver reporte ONU 2 de Septiembre. 
 
-* Altos nivels de corrupción  institucional
+* Interés politico local y regional por impulsar proyectos bajo la premisa de generación de empleo y atracción de inversión.
+
+
 
 
 ### Conclusión
 
 
-Importante estimar <span style="color: gold;">impactos **locales**</span> derivados de procesos **globales** que sustentados en la <span style="color: orange;">narrativa de "transición energética"</span> de hecho reflejan la prevalencia del <span style="color: gold;">interés económico</span> por sobre el cumplimiento de las metas 
-de los acuerdos internacionales en materia climatica como el Acuerdo de Paris y los compromisos derivados de los encuentros COP.  
+Importante estimar <span style="color: gold;">impactos **locales**</span> derivados de procesos **globales** que sustentados en la <span style="color: orange;">narrativa de "transición energética"</span> de hecho reflejan la prevalencia del <span style="color: gold;">interés económico</span> por sobre el cumplimiento de las   <span style="color: gold;">metas de los acuerdos internacionales</span> en materia climática como el Acuerdo de Paris y los compromisos derivados de los encuentros COP.  
 
  México tiene una oportunidad actual de demostrar coherencia 
  con su política climática.  Que históricamente  se ha visto  moldeada por factores externos ajenos al interés público y por el contrario guiados 

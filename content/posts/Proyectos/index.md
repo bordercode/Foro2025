@@ -87,9 +87,10 @@ Acorde con la documentación de **la empresa Mexico Pacific**, el ducto tiene un
 
 ## Controversia por emisiones de gases de efecto invernadero. 
 
- ONU advierte de sobre los riesgos de estos proyectos: 
- 
- 
+
+###### "La ONU advierte que las Manifestaciones de Impacto Ambiental de estos proyectos carecen de rigor y omiten análisis esenciales sobre efectos acumulativos, variación climática, riesgos tóxicos..."
+
+
 " Expresamos nuestra profunda preocupación por las emisiones previstas de gases de efecto invernadero, la contaminación tóxica, la alteración de los ecosistemas entre otros daños...
 (Comunicado ONU 2 septiembre 2025)"
 
@@ -97,8 +98,6 @@ Acorde con la documentación de **la empresa Mexico Pacific**, el ducto tiene un
 “a costa de la salud, los ecosistemas, las comunidades y los compromisos climáticos del país”
 
 
-
-###### "La ONU advierte que las Manifestaciones de Impacto Ambiental de estos proyectos carecen de rigor y omiten análisis esenciales sobre efectos acumulativos, variación climática, riesgos tóxicos..."
 
 La ausencia de estos elementos implica un incumplimiento directo de las obligaciones nacionales e internacionales de México, que exigen evaluaciones preventivas, completas y basadas en evidencia científica, sobre todo en una región considerada ecológicamente frágil.
 
