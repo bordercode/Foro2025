@@ -3,7 +3,7 @@ pluralizeListTitles: false
 summaryLength: 25
 theme: BlogRa
 languageCode: en-us
-title: "II Foro adaptaciones locales al cambio climámito 2025"
+title: "II Foro adaptaciones locales al cambio climátito 2025"
 disqusShortname: ''
 params:
   adsense: adsense-key
@@ -44,10 +44,10 @@ markup:
   goldmark:
     parser:
       attribute:
-        block: yes
+        block: true
     renderer:
-      unsafe: yes
+      unsafe: true
 module:
   hugoVersion:
-    extended: yes
+    extended: true
     min: 0.102.3
