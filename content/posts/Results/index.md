@@ -17,7 +17,7 @@ title: Resultados
 
 Estados Unidos se ha convertido en el **líder productor mundial** y es proveedor de importantes socios  comerciales en Asia. 
 
-### Japón, Corea del sur, Taiwán capturan **un tercio** de las importaciones mundiales. Potentes demandantes por su magnitud son China e India. 
+### Japón, Corea del sur, Taiwán capturan <span style="color:  green;">**un tercio**</span> de las importaciones mundiales. Potentes demandantes por su magnitud son China e India. 
 
 **Figura 2**.  Gas natural en Estados Unidos. Balance entre producción, consumo interno y exportaciones 1950-2023.
 
