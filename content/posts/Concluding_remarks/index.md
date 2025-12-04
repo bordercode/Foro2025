@@ -35,7 +35,15 @@ mexicano y en los estados fronterizos como Sonora, Chihuahua y Baja California,
 
 * ##### *See the LULUS framework*.  <span style="color: #FCCEE8;">Locally Unwanted Land Uses</span>
 
-* México con relativa menor capacidad de gestión y organización social para prevenir proyectos en el marco de los  **LULU´s**
+[California Senate](https://sor.senate.ca.gov/sites/sor.senate.ca.gov/files/What%20is%20LNG.pdf)
+
+* #### *In 2002 an LNG facility was proposed for Mare Island, a former naval shipyard in San Francisco Bay. Considerable citizen opposition prompted the <span style="color: #F54927;">withdrawal</span>  of this project.*
+
+* #### *In 2004 the cabrillo Deepwater Port LNG facility was proposed off the coast of Malibu. <span style="color: #C11007;">The facility was denied</span> in a letter from the Governor and other state agencies*
+
+* ####  *In 2004 a Long Beach onshore LNG facility was proposed, however, the California <span style="color: #FE9A37;">Supreme Court upheld the City of Long Beach’s decision not to review this project.</span>* 
+ 
+* Ciudadanos en comunidades locales con relativa menor capacidad de gestión y organización social para prevenir proyectos en el marco de los  **LULU´s propuestos desde EE.UU**
 
 * Mexico con una marco regulatorio ambiental robusto en papel pero con deficiente *enforcement* en la practica.
 
