@@ -47,7 +47,9 @@ Localizadas en Puerto Libertad, Sonora: Costa del Golfo de California. (Estadoun
 
 ![](./images/s11.jpg )
 
-Se integra por una terminal que proyecta la exportación de 15 millones de toneladas por año (mtnpa) (Mexico Pacific Gas Bulletin Board, 2025). La finalidad es abastecer la demanda externa de LNG generada en Asia mediante el envío por ruta marítima a través del Golfo de California. 
+Se integra por una terminal que proyecta la exportación de 15 millones de toneladas por año (mtnpa) (Mexico Pacific Gas Bulletin Board, 2025).
+
+#### <span style="color:  #fb4344;">La finalidad es abastecer la demanda externa de LNG generada en Asia mediante el envío por ruta marítima a través del Golfo de California.</span> 
 
 La terminal se ubica en una superficie de 600 hectáreas propiedad de la empresa México Pacific (Mexico Pacific Gas Bulletin Board, 2025), una compañía de capital estadounidense respaldada por la firma Quantum Captal group, consorcio dedicado a la inversión en sectores estratégicos como el energético. 
 
@@ -58,9 +60,13 @@ La planta Saguaro Energía forma parte del megaproyecto de transporte de gas nat
 ![](./images/668abdd8010ddbbb027143b1b76b17a2.jpeg)
 
 
-localizada a 23 km al norte de Ensenada, Baja California.  **Sempra Infraestructura** (empresa de capital estadounidense).
+ **Sempra Infraestructura** 
 
-La terminal se localiza a 23 km al norte de la ciudad de Ensenada en el estado de Baja California. Este proyecto es relevante, ya que se trata de la primera planta de licuefacción en las costas del Pacífico mexicano con un inicio de operación previsto para 2026. En la escala regional, **Estados Unidos no cuenta con plantas de licuefacción en la costa del Pacífico.**  
+La terminal se localiza a 23 km al norte de la ciudad de Ensenada en el estado de Baja California. 
+
+<span style="color:  #fb4344;">Este proyecto es relevante, ya que se trata de la primera planta de licuefacción en las costas del Pacífico mexicano con un inicio de operación previsto para 2026. En la escala regional,</span> 
+
+<span style="color:  gold;">**Estados Unidos no cuenta con plantas de licuefacción en la costa del Pacífico.**</span>  
 
 Tradicionalmente, el flujo de gas natural de Estados Unidos se ha concentrado en los puertos del Golfo de México y la Costa Atlántica, debido a la cercanía con los sitios de extracción, por lo que **la construcción de este proyecto hace factible la exportación de los excedentes de ese país por la ruta del Pacífico.** 
 
