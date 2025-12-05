@@ -43,9 +43,9 @@ mexicano y en los estados fronterizos como Sonora, Chihuahua y Baja California,
 
 Importante estimar <span style="color: gold;">impactos **locales**</span> de proyectos que involucran emisiones de potentes gases de efecto invernadero. 
 
-##### En el caso particular,  es necesario considerar en el <span style="color: orange;">cálculo, el ciclo de vida completo del Metano  cuyo potencial de calentamiento global es 80 veces mayor que el del Dióxido de carbono **CO<sub>2</sub>** durante los 20 años posteriores a su liberación en la atmósfera.</span>* 
+##### En el caso particular,  es necesario considerar en el <span style="color: orange;">cálculo, el ciclo de vida completo (NO unicamente la etapa de consumo final) del Metano  cuyo potencial de calentamiento global es 80 veces mayor que el del Dióxido de carbono **CO<sub>2</sub>** durante los 20 años posteriores a su liberación en la atmósfera.</span>* 
 
-#### Dada su persistencia en el ambiente, calcular los escenarios de largo plazo, (NO unicamente la etapa de consumo final), resulta fundamental. 
+#### Dada su persistencia en el ambiente, calcular los escenarios de impacto a largo plazo, resulta fundamental. 
 
 
 
