@@ -7,7 +7,7 @@ tags:
 title: "La ruta del gas natural en el noroeste de México. Implicaciones locales en el proceso de transición energética"
 ---
 
-  # <span style="color:  #fb4344;"> Motivación y objetivos.</span>
+#  Motivación y objetivos.
 
 ### <span style="color:  #F18F01;"> El objetivo</span> es ayudar a entender <span style="color:  #F18F01;">¿Cómo la agenda de transición energética</span>  se expresa en nuestro territorio? 
 

@@ -31,7 +31,7 @@ La figura de Dick Cheney es un <span style="color:  #f28c23;">clásico ejemplo d
 
 ![](./images/fracking.jpg)
 
-
+ Ver [Uso de agua en la extracción de gas de lutitas en el noreste de México. Retos de regulación ambiental](https://dialnet.unirioja.es/servlet/articulo?codigo=5831993)
 
 **Cuestionable ser juéz y parte**  (Participar financieramente en una industria que se pretende regular.)
 

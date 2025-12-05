@@ -107,8 +107,10 @@ Las emisiones proyectadas de dióxido de carbono (CO₂) y las fugas de metano a
 La ONU subraya que, en lugar de reducir su dependencia de combustibles fósiles, México estaría apostando por infraestructura que bloquearía su transición energética durante décadas.
 
 
-####  <span style="color: #FCCEE8;">Locally Unwanted Land Uses</span>
-*LULU´s framework*. [ver reporte:  California Senate](https://sor.senate.ca.gov/sites/sor.senate.ca.gov/files/What%20is%20LNG.pdf)
+
+### <span style="color: #FCCEE8;">Locally Unwanted Land Uses</span> *LULU´s framework*. 
+
+[ver reporte:  California Senate](https://sor.senate.ca.gov/sites/sor.senate.ca.gov/files/What%20is%20LNG.pdf)
 
 * #### *In 2002 an LNG facility was proposed for Mare Island, a former naval shipyard in San Francisco Bay. Considerable citizen opposition prompted the <span style="color: #F54927;">withdrawal</span>  of this project.*
 
