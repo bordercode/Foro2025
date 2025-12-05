@@ -38,7 +38,7 @@ mexicano y en los estados fronterizos como Sonora, Chihuahua y Baja California,
 
 
 
-### Conclusión
+## Conclusión
 
 
 Importante estimar <span style="color: gold;">impactos **locales**</span> de proyectos que involucran emisiones de potentes gases de efecto invernadero. 
@@ -67,6 +67,7 @@ Diciembre 5, 2025.
 
 jlmanzanaresrivera@colef.mx
 
+* United Nations Environment Programme (2023). Facts About the Climate Emergency. un. <https://www.unep.org/facts-about-climate-emergency>
 
 <style>
 /* Black background for this specific post */
