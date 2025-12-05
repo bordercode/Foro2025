@@ -94,17 +94,10 @@ Acorde con la documentación de **la empresa Mexico Pacific**, el ducto tiene un
 ## Controversia por emisiones de gases de efecto invernadero. 
 
 
-###### "La ONU advierte que las Manifestaciones de Impacto Ambiental de estos proyectos carecen de rigor y omiten análisis esenciales sobre efectos acumulativos, variación climática, riesgos tóxicos..."
-
-
 " Expresamos nuestra profunda preocupación por las emisiones previstas de gases de efecto invernadero, la contaminación tóxica, la alteración de los ecosistemas entre otros daños...
 (Comunicado ONU 2 septiembre 2025)"
 
 
-
-Las emisiones proyectadas de dióxido de carbono (CO₂) y las fugas de metano asociadas a la operación de buques metaneros colocarían al país fuera de ruta respecto a sus metas de reducción de gases de efecto invernadero, además de comprometer la credibilidad climática del Estado.
-
-La ONU subraya que, en lugar de reducir su dependencia de combustibles fósiles, México estaría apostando por infraestructura que bloquearía su transición energética durante décadas.
 
 
 
