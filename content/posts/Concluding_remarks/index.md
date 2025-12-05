@@ -28,7 +28,7 @@ title: La narrativa de la transición energética
 
 
 
-##  Consideraciones para reflexión
+##  Consideraciones finales para reflexión
 
 
 La evidencia estudiada sobre el reciente impulso por construir 
@@ -66,10 +66,13 @@ mexicano y en los estados fronterizos como Sonora, Chihuahua y Baja California,
 
 Importante estimar <span style="color: gold;">impactos **locales**</span> derivados de procesos **globales** que sustentados en la <span style="color: orange;">narrativa de "transición energética"</span> de hecho reflejan la prevalencia del <span style="color: gold;">interés económico</span> por sobre el cumplimiento de las   <span style="color: gold;">metas de los acuerdos internacionales</span> en materia climática como el Acuerdo de Paris y los compromisos derivados de los encuentros COP.  
 
- México tiene una oportunidad actual de demostrar coherencia 
- con su política climática.  Que históricamente  se ha visto  moldeada por factores externos ajenos al interés público y por el contrario guiados 
- por una  perspectiva con beneficios privados de corto plazo. 
+
  
+<div style="text-align: center;">
+
+### Gracias por su atención.
+
+</div>
 
 ![](./images/qr4.jpg)
 
