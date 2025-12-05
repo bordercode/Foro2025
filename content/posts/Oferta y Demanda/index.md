@@ -7,7 +7,7 @@ title: "Oferta y demanda de Gas Natural"
 
 
 > **Punto de inflexión**: el desarrollo de la técnica de <mark>fracturación hidráulica en Estados Unidos<mark> que comienza 
-con la reforma del **Energy Policy Act de 2005-safe Drinking Water Act (SDWA)** como punto de inflexión.  
+con la reforma del **Energy Policy Act de 2005/Safe Drinking Water Act (SDWA)** como punto de inflexión.  
 
 
 

@@ -101,12 +101,24 @@ Acorde con la documentación de **la empresa Mexico Pacific**, el ducto tiene un
 (Comunicado ONU 2 septiembre 2025)"
 
 
-La ausencia de estos elementos implica un incumplimiento directo de las obligaciones nacionales e internacionales de México, que exigen evaluaciones preventivas, completas y basadas en evidencia científica, sobre todo en una región considerada ecológicamente frágil.
-
 
 Las emisiones proyectadas de dióxido de carbono (CO₂) y las fugas de metano asociadas a la operación de buques metaneros colocarían al país fuera de ruta respecto a sus metas de reducción de gases de efecto invernadero, además de comprometer la credibilidad climática del Estado.
 
 La ONU subraya que, en lugar de reducir su dependencia de combustibles fósiles, México estaría apostando por infraestructura que bloquearía su transición energética durante décadas.
+
+
+####  <span style="color: #FCCEE8;">Locally Unwanted Land Uses</span>
+*LULU´s framework*. [ver reporte:  California Senate](https://sor.senate.ca.gov/sites/sor.senate.ca.gov/files/What%20is%20LNG.pdf)
+
+* #### *In 2002 an LNG facility was proposed for Mare Island, a former naval shipyard in San Francisco Bay. Considerable citizen opposition prompted the <span style="color: #F54927;">withdrawal</span>  of this project.*
+
+* #### *In 2004 the cabrillo Deepwater Port LNG facility was proposed off the coast of Malibu. <span style="color: #C11007;">The facility was denied</span> in a letter from the Governor and other state agencies*
+
+* ####  *In 2004 a Long Beach onshore LNG facility was proposed, however, the California <span style="color: #FE9A37;">Supreme Court upheld the City of Long Beach’s decision not to review this project.</span>* 
+ 
+**Sources:**  *The California Energy Commission; Center for Liquefied Natural Gas; Clearwater Port; U.S. Energy Information Administration (EIA), Official Energy Statistics From the U.S. Government; The Federal Energy Regulatory Commission (FERC); OceanWay Secure Energy*
+
+* #### Ver el caso emblemático de  la cancelación del proyecto en costas del pacífico ( **Coos Bay Oregon**) [Jordan Cove](https://socan.eco/legislative-hub/historical-advocacy/pipeline-advocacy/) 
 
 
 
