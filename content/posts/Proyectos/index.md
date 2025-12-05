@@ -101,10 +101,6 @@ Acorde con la documentación de **la empresa Mexico Pacific**, el ducto tiene un
 (Comunicado ONU 2 septiembre 2025)"
 
 
-“a costa de la salud, los ecosistemas, las comunidades y los compromisos climáticos del país”
-
-
-
 La ausencia de estos elementos implica un incumplimiento directo de las obligaciones nacionales e internacionales de México, que exigen evaluaciones preventivas, completas y basadas en evidencia científica, sobre todo en una región considerada ecológicamente frágil.
 
 

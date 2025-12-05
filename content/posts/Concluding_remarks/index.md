@@ -28,7 +28,7 @@ title: La narrativa de la transición energética
 
 
 
-##  Consideraciones finales
+##  Consideraciones para reflexión
 
 
 La evidencia estudiada sobre el reciente impulso por construir 
