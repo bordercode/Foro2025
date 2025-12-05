@@ -7,7 +7,7 @@ title: "Oferta y demanda de Gas Natural"
 
 
 > **Punto de inflexión**: el desarrollo de la técnica de <mark>fracturación hidráulica en Estados Unidos<mark> que comienza 
-con la reforma del **Clean Water Act** como punto de inflexión.  
+con la reforma del **Energy Policy Act de 2005-safe Drinking Water Act (SDWA)** como punto de inflexión.  
 
 
 
@@ -31,10 +31,9 @@ La figura de Dick Cheney es un <span style="color:  #f28c23;">clásico ejemplo d
 
 ![](./images/fracking.jpg)
 
-Entre otras cosas una vez en el gobierno, la empresa Halliburton obtuvo millonarios
-contratos en la Guerra de Irak (reparación de infraestructura petrolera).
 
-**Cuestionable ser Juéz y parte**, participar financieramente en una industria que se pretende regular.
+
+**Cuestionable ser juéz y parte**  (Participar financieramente en una industria que se pretende regular.)
 
 
 
