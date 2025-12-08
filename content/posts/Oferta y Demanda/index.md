@@ -68,7 +68,7 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 
 {{< rawhtml >}}
 <iframe 
-    src="/plots/mezcla_electrica_mexico_interactiva.html" 
+    src="/plots/fuentes_CFE.html" 
     width="100%" 
     height="650" 
     style="border:none;"
