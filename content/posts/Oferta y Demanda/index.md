@@ -63,7 +63,12 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 
 
 
-## Mexico  de la abandona la autosuficiencia e incrementa la dependencia energetica.
+## Mexico  transita de la autosuficiencia a la dependencia energética.
+
+
+Add evalución historica de uso de gas natural para generación elecrtica. 
+
+![](./images/mexico-CAN-imports.jpg )
 
 
 {{< rawhtml >}}
@@ -75,7 +80,7 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 ></iframe>
 {{< /rawhtml >}}
 
-
+Fuente: Elaborción propia con datos de SENER  2025.
 
 
 
