@@ -63,6 +63,20 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 
 
 
+## Mexico  de la abandona la autosuficiencia e incrementa la dependencia energetica.
+
+
+{{< rawhtml >}}
+<iframe 
+    src="/plots/mezcla_electrica_mexico_interactiva.html" 
+    width="100%" 
+    height="650" 
+    style="border:none;"
+></iframe>
+{{< /rawhtml >}}
+
+
+
 
 
 <!-- Return to Home Page -->
