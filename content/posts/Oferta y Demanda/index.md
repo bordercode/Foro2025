@@ -66,18 +66,14 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 ## México  transita de la autosuficiencia a la dependencia energética.
 
 
-![](./images/mexico-CAN-imports.jpg )
 
 {{< rawhtml >}}
-<div style="width: 100%; max-width: 1200px; margin: 0 auto;">
-  <iframe 
+<iframe 
     src="/plots/ts_cfe_LNG.html" 
-    width="100%" 
-    height="600"
+    width="50%" 
+    height="650" 
     style="border:none;"
-    scrolling="no"
-  ></iframe>
-</div>
+></iframe>
 {{< /rawhtml >}}
 
 
