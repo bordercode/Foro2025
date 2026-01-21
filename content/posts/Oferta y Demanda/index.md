@@ -68,33 +68,17 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 
 ![](./images/mexico-CAN-imports.jpg )
 
-
 {{< rawhtml >}}
-<div class="iframe-container">
+<div style="width: 100%; max-width: 1200px; margin: 0 auto;">
   <iframe 
     src="/plots/ts_cfe_LNG.html" 
-    style="border:none; width: 100%; height: 100%;"
+    width="100%" 
+    height="600"
+    style="border:none;"
     scrolling="no"
   ></iframe>
 </div>
-<style>
-  .iframe-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%; /* 16:9 Aspect Ratio - adjust as needed */
-    height: 0;
-    overflow: hidden;
-  }
-  .iframe-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
 {{< /rawhtml >}}
-
 
 
 
