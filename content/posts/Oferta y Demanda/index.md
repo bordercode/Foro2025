@@ -76,7 +76,9 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 ></iframe>
 {{< /rawhtml >}}
 
+Fuente: Elaborción propia con datos de SENER  2025, EIA, PEMEX, INEGI.
 
+**Generación de electricidad. Distribución por fuente 2025.**
 
 {{< rawhtml >}}
 <iframe 
