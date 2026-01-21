@@ -72,7 +72,7 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 {{< rawhtml >}}
 <iframe 
     src="/plots/ts_cfe_LNG.html" 
-    width="100%" 
+    width="80%" 
     height="650" 
     style="border:none;"
 ></iframe>
